@@ -9,7 +9,7 @@
 [![Plotly](https://img.shields.io/badge/Plotly-239120?style=flat&logo=plotly&logoColor=white)](https://plotly.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-**Track 4 - DataForge E-Summit 2026**
+**DataForge E-Summit 2026**
 
 [Live Demo](https://dataforge-contextual-search-engine.streamlit.app/)
 
@@ -341,22 +341,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Streamlit** for the amazing web framework
 - **Plotly** for interactive visualizations
 
----
 
-## Contact
-
-**Project Team**: DataForge E-Summit 2026 Participants
-
-**Project Link**: [https://github.com/yourusername/contextual-compression-engine](https://github.com/yourusername/contextual-compression-engine)
-
-**Live Demo**: [https://dataforge-contextual-search-engine.streamlit.app/](https://dataforge-contextual-search-engine.streamlit.app/)
-
----
 
 <div align="center">
 
 **Star this repository if you find it helpful!**
 
-Made for the DataForge E-Summit 2026
 
 </div>
