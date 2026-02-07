@@ -1,0 +1,36 @@
+[
+  {
+    "section": "1.1",
+    "page": 1,
+    "type": "critical",
+    "summary": "1.1 Password Requirements \n------------------------- \nAll employees must adhere to the following password standards:\nMinimum password length: 12 characters for standard users, 16 characters for  \nadministrative accounts. Passwords must contain at least one uppercase letter,  \none lowercase letter, one number, and one special character.\nEXCEPTION: Legacy systems running on Windows Server 2012 R2 or older may use  \nminimum 8-character passwords due to system limitations. These systems must be  \nupgraded by December 31, 2025, OR isolated on a separate network segment with  \nadditional monitoring.\nPassword expiration: 90 days for standard accounts, 60 days for privileged  \naccounts. However, NIST guidelines (SP 800-63B) recommend against forced  \npassword changes unless compromise is suspected. This creates a CONTRADICTION",
+    "details": {
+      "has_exception": true,
+      "has_risk": false,
+      "has_contradiction": true,
+      "has_numbers": true
+    },
+    "source_range": [
+      414,
+      1244
+    ],
+    "chunk_id": 0
+  },
+  {
+    "section": "7.1",
+    "page": 7,
+    "type": "critical",
+    "summary": "7.1 Data Subject Rights (GDPR/CCPA) \n----------------------------------- \nRight to Access: Response within 30 days \nRight to Deletion: Response within 45 days (with exceptions for legal holds) \nRight to Portability: Data provided in machine-readable format (JSON/CSV)",
+    "details": {
+      "has_exception": true,
+      "has_risk": false,
+      "has_contradiction": false,
+      "has_numbers": true
+    },
+    "source_range": [
+      7849,
+      8116
+    ],
+    "chunk_id": 10
+  }
+]
