@@ -286,48 +286,6 @@ python -m pytest --cov=src tests/
 
 ---
 
-## Contributing
-
-We welcome contributions! Please follow these steps:
-
-1. **Fork** the repository
-2. **Create** a feature branch: `git checkout -b feature/amazing-feature`
-3. **Commit** your changes: `git commit -m 'Add amazing feature'`
-4. **Push** to the branch: `git push origin feature/amazing-feature`
-5. **Open** a Pull Request
-
-### Development Guidelines
-
-- Follow PEP 8 style guidelines
-- Add docstrings to all functions
-- Include type hints
-- Write tests for new features
-- Update documentation
-
----
-
-## Roadmap
-
-### Phase 1: Core Enhancement (Current)
-- [x] Hierarchical compression
-- [x] Critical content preservation
-- [x] Full traceability
-- [x] Interactive visualization
-
-### Phase 2: Advanced Features (Q2 2026)
-- [ ] Multi-language support
-- [ ] REST API
-- [ ] Batch processing
-- [ ] Advanced visualizations
-
-### Phase 3: Enterprise Integration (Q3 2026)
-- [ ] Cloud deployment
-- [ ] SSO authentication
-- [ ] Audit logging
-- [ ] Custom model training
-
----
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -341,11 +299,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Streamlit** for the amazing web framework
 - **Plotly** for interactive visualizations
 
-
-
 <div align="center">
 
 **Star this repository if you find it helpful!**
-
 
 </div>
