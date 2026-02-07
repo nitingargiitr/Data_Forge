@@ -184,14 +184,6 @@ def render_sidebar():
         with st.expander("Current Configuration"):
             st.json(st.session_state.compression_config)
         
-        st.info("""
-        **How it works:**
-        1. Document is split into semantic chunks
-        2. Each chunk is summarized individually
-        3. Section summaries are created
-        4. Final document summary is generated
-        5. All critical facts are extracted
-        """)
         
         if st.session_state.file_processed:
             st.divider()
